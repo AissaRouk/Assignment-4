@@ -8,9 +8,16 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
-  "author": "",
+  "author": "issa",
   "license": "ISC",
-    "devDependencies": {
-    "lite-server": "^2.3.0"
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AissaRouk/Assignment-4.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AissaRouk/Assignment-4/issues"
   }
 }
